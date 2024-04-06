@@ -107,9 +107,6 @@ imageio==2.34.0
 imagesize==1.4.1
 importlib-metadata==6.11.0
 importlib_resources==6.1.2
-indic_nlp_library @ file:///Users/tuhinaww/EcoSort/backend/IndicTrans2/indic_nlp_library
-indic_nlp_library_IT2 @ git+https://github.com/VarunGumma/indic_nlp_library@18e85551b0b331a65d11acf869afd4cfa615bc4c
--e git+https://github.com/VarunGumma/IndicTransTokenizer@e20d2d762fa20dea3b87858a4e38adf93ddfe50f#egg=IndicTransTokenizer
 ipykernel==6.27.1
 ipython==8.18.1
 ipywidgets==8.1.2
